@@ -1,0 +1,18 @@
+Variabel dalam php diawali menggunakan $ (Dilarang menggunakan simbol dan angka untuk awalan penamaan variabel, karena dapat menimbulkan 
+error dan diperbolehkan menggunakan underscore untuk awal penamaan variabel) variabel juga bersifat sensitif case atau sensitif terhadap 
+huruf besar maupun kecil.
+
+Contoh:
+1. Menggunakan underscore.
+<?php
+  $_nama = "Wanwan";
+  echo("$_nama");
+?>
+
+2. Menggunakan angka.
+<?php
+  $umur1 = "16";
+  echo("$umur1");
+?>
+
+Ini adalah contoh paling dasar untuk variabel php dan masih banyak lagi style lainnya.
