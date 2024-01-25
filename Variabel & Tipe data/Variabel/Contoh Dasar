@@ -4,8 +4,14 @@
   echo("$nama")
 ?>
 
-// Atau contoh dua dapat dengan menggunakan UNDERSCORE 
+// Contoh dua dapat dengan menggunakan UNDERSCORE 
 <?php
 $umur = 0;
 echo("$umur")
+?>
+
+// Contoh tiga dapat dengan menggunakan angka
+<?php
+$rumah1 = "hijau";
+echo("$rumah1")
 ?>
