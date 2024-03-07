@@ -1,0 +1,6 @@
+Fungsi adalah sub program yang digunakan untuk mengerjakan suatu perintah atau tugas tertentu yang menghasilkan 
+suatu output dari perintah tersebut.
+Fungsi dapat membantu memecah kode menjadi bagian-bagian yang lebih kecil dan terkelompok.
+
+Fungsi didefinisikan dengan menggunakan kata kunci function, diikuti oleh 
+nama fungsinya dan blok instruksi di dalamnya.
