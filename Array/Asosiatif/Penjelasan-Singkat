@@ -1,0 +1,3 @@
+Array asosiatif dalam PHP memungkinkan Anda untuk mengasosiasikan nama/label dengan setiap elemen 
+array menggunakan simbol =>. Dengan demikian, Anda dapat dengan mudah mengingat elemen karena 
+setiap elemen diwakili oleh label daripada angka yang bertambah.
